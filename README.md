@@ -1,6 +1,6 @@
 ## npm-greet-creativec
 
-- This is the npm package node js project
+- This is the npm package node js project which is hosted on `https://www.npmjs.com`
 
 ### npm package link
 
