@@ -1,4 +1,6 @@
 function greet(name) {
     console.log(`Hello ${name}, you are welcome`)
 }
-greet('john doe'); 
+greet('john doe');
+
+module.exports = greet; 
