@@ -1,6 +1,6 @@
 {
   "name": "greet-creativec",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a node package which gives a greet message on sending the name",
   "main": "index.js",
   "scripts": {
