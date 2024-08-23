@@ -1,0 +1,11 @@
+{
+  "name": "greet-creativec",
+  "version": "1.0.0",
+  "description": "This is a node package which gives a greet message on sending the name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
